@@ -37,7 +37,7 @@ In this challenge, knowledge of Python and unsupervised learning are used to pre
 
 5. Find the Best Value for k Using the PCA Data
 
-![](Pics/elbow_pcs_chart.png)
+![](Pics/elbow_pca_chart.png)
 
 -What is the best value for k when using the PCA data?
 **4**
@@ -47,3 +47,12 @@ In this challenge, knowledge of Python and unsupervised learning are used to pre
 
 6. Cluster Cryptocurrencies with K-means Using the PCA Data
 
+![](Pics/predictions_pca_chart.png)
+
+7. Visualize and Compare the Results
+
+
+
+
+
+-What is the impact of using fewer features to cluster the data using K-Means?
