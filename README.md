@@ -31,7 +31,13 @@ In this challenge, knowledge of Python and unsupervised learning are used to pre
 
 ## 4. Optimize Clusters with Principal Component Analysis
 
-![](Pics/variances.png)
+**PCA Data**
+
+![](Pics/PCA_data.png)
+
+**PCA Variances**
+
+![](Pics/PCA_variances.png)
 
 -What is the total explained variance of the three principal components?
 **89.50%**
