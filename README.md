@@ -27,7 +27,23 @@ In this challenge, knowledge of Python and unsupervised learning are used to pre
 
 4. Optimize Clusters with Principal Component Analysis
 
+![](Pics/variances.png)
+
+-What is the total explained variance of the three principal components?
+**89.50%**
+
+**PCA DataFrame**
+![](Pics/pca_df.png)
+
 5. Find the Best Value for k Using the PCA Data
+
+![](Pics/elbow_pcs_chart.png)
+
+-What is the best value for k when using the PCA data?
+**4**
+
+-Does it differ from the best k value found using the original data?
+**No, the best value for `k` is the same**
 
 6. Cluster Cryptocurrencies with K-means Using the PCA Data
 
