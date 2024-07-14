@@ -83,4 +83,5 @@ In this challenge, knowledge of Python and unsupervised learning are used to pre
 -What is the impact of using fewer features to cluster the data using K-Means?
   
 **Even though fewer features are used, the features (principal components) explain the main variances in the data, then, when applying the k-means clustering method, we are able to obtain similar results.**
+
 **This confirms that the PCA is a useful method to use when working with large datasets that require dimensionality reduction.**
