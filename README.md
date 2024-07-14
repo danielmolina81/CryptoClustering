@@ -3,7 +3,9 @@
 In this challenge, knowledge of Python and unsupervised learning are used to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 
-1. Prepare the Data
+1. Prepare the Data: Use StandardScaler() to normalize the data.
+
+
 ![](Pics/original_data.png)
 ![](Pics/original_data_chart.png)
 
@@ -12,8 +14,12 @@ In this challenge, knowledge of Python and unsupervised learning are used to pre
 ![](Pics/scaled_data_chart.png)
 
 
-
 2. Find the Best Value for k Using the Original Scaled DataFrame
+
+![](Pics/elbow_chart.png)
+
+- What is the best value for k?
+**4**
 
 3. Cluster Cryptocurrencies with K-means Using the Original Scaled Data
 
