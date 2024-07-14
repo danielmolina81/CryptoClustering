@@ -35,7 +35,7 @@ In this challenge, knowledge of Python and unsupervised learning are used to pre
 
 ![](Pics/PCA_data.png)
 
-**PCA Variances**
+**PCA Explained Variances**
 
 ![](Pics/PCA_variances.png)
 
