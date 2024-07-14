@@ -62,22 +62,25 @@ In this challenge, knowledge of Python and unsupervised learning are used to pre
 
 ## 7. Visualize and Compare the Results
 
-**Composite Elbow Chart**
+**Composite Elbow Curve**
+
+- **The Composite Elbow Curve shows how when using the PCA method we obtained the same optimal `k`.**
 
 ![](Pics/elbow_composite_chart.png)
 
 **Composite K-means Clusters Chart**
 
+- **The Composite K-means Clusters chart shows how the cryptos were grouped in the same clusters.**
+
 ![](Pics/clusters_composite_chart.png)
 
 **Comparison DataFrame for the clusters with and without PCA**
 
+-  **This Comparison DataFrame helps confirming that the cryptos were grouped in the same clusters.**
+
 ![](Pics/comparison.png)
 
 -What is the impact of using fewer features to cluster the data using K-Means?
-
-    **The Composite Elbow Chart shows how when using the PCA method we obtained the same optimal `k`.**
-
-    **Also, the Composite K-means Clusters chart shows how the cryptos were grouped in the same clusters, which can be seen also in comparison Dataframe.**
   
-    **This confirms that the PCA is a useful method to use when working with large datasets that require dimensionality reduction. As the principal components explain the variances in the data, then, when applying the k-means clustering method, we are able to obtain similar results.**
+**Even though fewer features are used, the features (principal components) explain the main variances in the data, then, when applying the k-means clustering method, we are able to obtain similar results.**
+**This confirms that the PCA is a useful method to use when working with large datasets that require dimensionality reduction.**
