@@ -23,6 +23,8 @@ In this challenge, knowledge of Python and unsupervised learning are used to pre
 
 3. Cluster Cryptocurrencies with K-means Using the Original Scaled Data
 
+![](Pics/predictions_chart.png)
+
 4. Optimize Clusters with Principal Component Analysis
 
 5. Find the Best Value for k Using the PCA Data
