@@ -4,12 +4,12 @@ In this challenge, knowledge of Python and unsupervised learning are used to pre
 
 
 1. Prepare the Data
-![]'original_data.png'
-![]'original_data_chart.png'
+![](Pics/original_data.png)
+![](Pics/original_data_chart.png)
 
 
-![]'scaled_data.png'
-![]'scaled_data_chart.png'
+![](Pics/scaled_data.png)
+![](Pics/scaled_data_chart.png)
 
 
 
